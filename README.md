@@ -1,5 +1,11 @@
-## Hi there 👋
 
+# Hi there, I'm Mushfira Mujeeb 👋  
+🎓 2nd-year Information Systems undergraduate student at Sabaragamuwa University of Sri Lanka 
+
+💻 Interested in: Software Development, Databases, and Cybersecurity  
+
+📫 How to reach me:
+- Email:  mushfiramujeeb22@gmail.com
 <!--
 **MushfiraMujeeb/MushfiraMujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
