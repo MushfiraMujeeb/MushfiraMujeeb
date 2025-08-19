@@ -6,6 +6,7 @@
 
 ###  Skills & Tools (in progress)
 Programming: Java, C , PYTHON,SQL ,HTML,CSS
+
 Tools: Git, GitHub, IntelliJ, VS Code
 
  ### worked on
