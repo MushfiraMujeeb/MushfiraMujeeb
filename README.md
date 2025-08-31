@@ -9,10 +9,19 @@
 ## 🛠 Skills & Tools
 
 **Programming & Frameworks:**  
-Java | C | Python | SQL | HTML | CSS | React  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 **Tools & IDEs:**  
-Git | GitHub | IntelliJ | VS Code  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
 
@@ -21,7 +30,7 @@ Git | GitHub | IntelliJ | VS Code
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [DiaSaver](https://github.com/MushfiraMujeeb/DiaSaver) 🩺 | Health reminder app for diabetes patients | React, JavaScript, CSS, Database |
-| [Portfolio Website](https://github.com/MushfiraMujeeb/MushfiraMujeeb.github.io) 🌐 | Personal portfolio website | HTML, CSS |
+| [Portfolio Website](https://github.com/MushfiraMujeeb/MushfiraMujeeb.github.io) 🌐 | Personal portfolio site | HTML, CSS |
 | [Java-Practice](https://github.com/MushfiraMujeeb/java-practice) ☕ | Java exercises & OOP concepts | Java |
 | [Maker's Magic](https://github.com/MushfiraMujeeb/Maker-s-Magic) 🎨 | Creative sample website | HTML, CSS |
 
