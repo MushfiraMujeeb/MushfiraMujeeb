@@ -8,20 +8,22 @@
 
 ## 🛠 Skills & Tools
 
-**Programming & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+### Programming Languages
 
-**Tools & IDEs:**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+### Tools & IDEs
+
+### Skill Levels
+| Skill | Level |
+|-------|-------|
+| Java | Intermediate ✅✅✅ |
+| C | Intermediate ✅✅✅ |
+| Python | Beginner ✅✅ |
+| SQL | Intermediate ✅✅✅ |
+| HTML & CSS | Intermediate ✅✅✅ |
+| React | Beginner ✅✅ |
+| Git & GitHub | Intermediate ✅✅✅ |
+| IntelliJ IDEA | Intermediate ✅✅✅ |
+| VS Code | Intermediate ✅✅✅ |
 
 ---
 
@@ -58,6 +60,7 @@
 ---
 
 ✨ *"Code. Learn. Repeat."*
+
 
 
 <!--
