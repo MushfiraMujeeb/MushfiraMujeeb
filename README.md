@@ -17,7 +17,7 @@
 |-------|-------|
 | Java | Intermediate ✅✅✅ |
 | C | Intermediate ✅✅✅ |
-| Python | Beginner ✅✅ |
+| Python | Intermediate ✅✅✅ |
 | SQL | Intermediate ✅✅✅ |
 | HTML & CSS | Intermediate ✅✅✅ |
 | React | Beginner ✅✅ |
@@ -40,15 +40,13 @@
 
 ## 🌱 Currently Learning
 - React & Advanced Java  
-- Database Management Systems (DBMS)  
 - Cybersecurity Fundamentals  
 
 ---
 
-## 💡 Personal Insights
-- ☕ Coding fuel: Coffee + Music  
+## 💡 Personal Insights 
 - 🌍 Languages: English | Tamil | Sinhala  
-- 💡 Dream Project: AI-based Smart Learning Platform for Sri Lankan Students  
+
 
 ---
 
