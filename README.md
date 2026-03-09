@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mushfira Mujeeb
+# 👋 Hi, I’m Musfira Mujeeb
 
 🎓 2nd-year BSc (Hons) Information Systems Undergraduate at Sabaragamuwa University  
 💻 Passionate about Software Development, Databases & Cybersecurity  
